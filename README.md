@@ -1,3 +1,6 @@
+#THIS IS NOT A FREE AND OPEN SOURCE SOFTWARE 
+
+
 #NLPIR
 开发者：张华平/Dr. Kevin Zhang</br>
 NLPIR官方网站：<http://www.nlpir.org/>
